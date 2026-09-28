@@ -1,0 +1,8 @@
+kaggle.json
+*.exe
+desktop.ini
+*.pdf
+__pycache__/
+.venv/
+venv/
+.env
